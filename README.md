@@ -12,6 +12,10 @@ Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisie
 * [Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/) - Liste mit Tools, mit denen sich Webseiten Scrapen lassen
 * [Graphics Collection](http://collection.marijerooze.nl/) - Liste mit Datenvisualisierungen der New York Times und des Guardian
 
+## Tutorials
+
+* [Wie man einen Scraper schreibt](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - leider in Englisch
+
 ## Tools
 
 Diese Tools helfen dir Daten zu visualisieren, bereinigen und manipulieren.
