@@ -19,7 +19,7 @@ Sie kommen meistens zum Einsatz, wenn man schnell einen Prototypen entwicklen od
 
 #### Data Processing
 * [Mr. Dataconverter](https://shancarter.github.io/mr-data-converter/) - Wandelt Excel oder CSV Dateien in JSON, XML und HTML um
-* [Open Refine])(http://openrefine.org/) - Hilft beim Säubern, Filtern und Umwandeln von großen Datenmengen
+* [Open Refine](http://openrefine.org/) - Hilft beim Säubern, Filtern und Umwandeln von großen Datenmengen
 
 
 ## Libraries
