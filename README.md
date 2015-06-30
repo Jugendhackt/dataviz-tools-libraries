@@ -1,4 +1,4 @@
-# Datenvisualisierung - Tool und Libraries
+# Datenvisualisierung - Tools und Libraries
 
 In dieser Liste findest du Tools und Libraries, die dir helfen Daten zu visualisieren.
 In diesem Fall sind Tools webbasierte Anwendungen, die man nutzen kann ohne zu programmieren.
@@ -8,6 +8,9 @@ Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisie
 
 * [Datavizcatalogue](http://www.datavizcatalogue.com/) - Übersicht über verschiedene Visualisierungsformen
 * [Datavisualization Tools](http://selection.datavisualization.ch/) - Liste mit Tools die für Datenvisualisierungen benutzt werden können.
+* [Chart Libraries](http://blog.webkid.io/javascript-chart-libraries/) - Liste mit unterschiedlichen Libraries um Charts zu erstellen
+* [Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/) - Liste mit Tools, mit denen sich Webseiten Scrapen lassen
+* [Graphics Collection](http://collection.marijerooze.nl/) - Liste mit Datenvisualisierungen der New York Times und des Guardian
 
 ## Tools
 
