@@ -13,6 +13,10 @@ Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisie
 Diese Tools helfen dir Daten zu visualisieren, bereinigen und manipulieren.
 Sie kommen meistens zum Einsatz, wenn man schnell einen Prototypen entwicklen oder eine erste Idee visualisieren will.
 
+#### Scraper
+
+* [Web Scraper Chrome Extension](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) - Eine Chrome Extension mit der man Daten aus Webseiten extrahieren kann
+
 #### Charts
 * [datawrapper](https://www.datawrapper.de/) - Tool zum Erstellen von Visualisierungen.
 * [raw](http://raw.densitydesign.org/) - Tool zum Erstellen von Visualisierungen.
