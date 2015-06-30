@@ -4,14 +4,6 @@ In dieser Liste findest du Tools und Libraries, die dir helfen Daten zu visualis
 In diesem Fall sind Tools webbasierte Anwendungen, die man nutzen kann ohne zu programmieren.
 Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisierungen erstellen kann.
 
-## Listen
-
-* [Datavizcatalogue](http://www.datavizcatalogue.com/) - Übersicht über verschiedene Visualisierungsformen
-* [Datavisualization Tools](http://selection.datavisualization.ch/) - Liste mit Tools die für Datenvisualisierungen benutzt werden können.
-* [Chart Libraries](http://blog.webkid.io/javascript-chart-libraries/) - Liste mit unterschiedlichen Libraries um Charts zu erstellen
-* [Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/) - Liste mit Tools, mit denen sich Webseiten Scrapen lassen
-* [Graphics Collection](http://collection.marijerooze.nl/) - Liste mit Datenvisualisierungen der New York Times und des Guardian
-
 ## Tutorials
 
 * [Wie man einen Scraper schreibt](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - leider in Englisch
@@ -51,3 +43,11 @@ Diese Javascript Libraries helfen Daten zu visualisieren.
 * [Leaflet](http://leafletjs.com/) - Mit Leaflet kann man webbasierte Karten erstellen
 * [Leaflet Plugins](http://leafletjs.com/plugins.html) - Es gibt eine Vielzahl an Plugins, mit denen man die Funktionalität von Leaflet erweitern kann.
 * [OpenLayers](http://openlayers.org/) - Library zum Erstellen von webbasierten Karten
+
+## Listen zum Weiterlesen
+
+* [Datavizcatalogue](http://www.datavizcatalogue.com/) - Übersicht über verschiedene Visualisierungsformen
+* [Datavisualization Tools](http://selection.datavisualization.ch/) - Liste mit Tools die für Datenvisualisierungen benutzt werden können.
+* [Chart Libraries](http://blog.webkid.io/javascript-chart-libraries/) - Liste mit unterschiedlichen Libraries um Charts zu erstellen
+* [Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/) - Liste mit Tools, mit denen sich Webseiten Scrapen lassen
+* [Graphics Collection](http://collection.marijerooze.nl/) - Liste mit Datenvisualisierungen der New York Times und des Guardian
