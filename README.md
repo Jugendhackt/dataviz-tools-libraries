@@ -4,9 +4,12 @@ In dieser Liste findest du Tools und Libraries, die dir helfen Daten zu visualis
 In diesem Fall sind Tools webbasierte Anwendungen, die man nutzen kann ohne zu programmieren.
 Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisierungen erstellen kann.
 
-## Tutorials
+## Beispiele
 
-* [Wie man einen Scraper schreibt](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - leider in Englisch
+* [Listen to Wikipedia](http://listen.hatnote.com/) - Live Visualisierung von Änderungen in Wikipedia-Einträgen
+* [Basketballkarte](http://www.nytimes.com/interactive/2014/05/12/upshot/basketball-map.html#5,48.123,-93.921) - Interaktive Karte die zeigt wie sich Basketballfans in Amerika verteilen.
+* [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery) - Viele Beispiele von interaktiven Visualisierungen (mit Codebeispielen)
+* [Tweeting Happy new Year around the World](http://twitter.github.io/interactive/newyear2014/) - interaktive Visualisierung von frohes-neues-Jahr-Tweets
 
 ## Tools
 
@@ -47,6 +50,10 @@ Diese Javascript Libraries helfen Daten zu visualisieren.
 * [Leaflet](http://leafletjs.com/) - Mit Leaflet kann man webbasierte Karten erstellen
 * [Leaflet Plugins](http://leafletjs.com/plugins.html) - Es gibt eine Vielzahl an Plugins, mit denen man die Funktionalität von Leaflet erweitern kann.
 * [OpenLayers](http://openlayers.org/) - Library zum Erstellen von webbasierten Karten
+
+## Tutorials
+
+* [Wie man einen Scraper schreibt](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - leider in Englisch
 
 ## Listen zum Weiterlesen
 
