@@ -17,10 +17,6 @@ Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisie
 Diese Tools helfen dir Daten zu visualisieren, bereinigen und manipulieren.
 Sie kommen meistens zum Einsatz, wenn man schnell einen Prototypen entwicklen oder eine erste Idee visualisieren will.
 
-#### Scraper
-
-* [Web Scraper Chrome Extension](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) - Eine Chrome Extension mit der man Daten aus Webseiten extrahieren kann
-
 #### Charts
 * [datawrapper](https://www.datawrapper.de/) - Tool zum Erstellen von Visualisierungen.
 * [raw](http://raw.densitydesign.org/) - Tool zum Erstellen von Visualisierungen.
@@ -51,10 +47,6 @@ Diese Javascript Libraries helfen Daten zu visualisieren.
 * [Leaflet](http://leafletjs.com/) - Mit Leaflet kann man webbasierte Karten erstellen
 * [Leaflet Plugins](http://leafletjs.com/plugins.html) - Es gibt eine Vielzahl an Plugins, mit denen man die Funktionalität von Leaflet erweitern kann.
 * [OpenLayers](http://openlayers.org/) - Library zum Erstellen von webbasierten Karten
-
-## Tutorials
-
-* [Wie man einen Scraper schreibt](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - leider in Englisch
 
 ## Listen zum Weiterlesen
 
