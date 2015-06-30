@@ -4,6 +4,10 @@ In dieser Liste findest du Tools und Libraries, die dir helfen Daten zu visualis
 In diesem Fall sind Tools webbasierte Anwendungen, die man nutzen kann ohne zu programmieren.
 Die Libraries sind Javascript Bibliotheken, mit denen man webbasierte Visualisierungen erstellen kann.
 
+## Visualisierungsformen
+
+* [Datavizcatalogue](http://www.datavizcatalogue.com/) - Übersicht über verschiedene Visualisierungsformen
+
 ## Tools
 
 Diese Tools helfen dir Daten zu visualisieren, bereinigen und manipulieren.
